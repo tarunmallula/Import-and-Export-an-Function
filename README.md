@@ -8,3 +8,4 @@ Import the function in the `importFunction.js` file.
 
 <b>Use Common JS module syntax</b>.
 # Import-and-Export-an-Function
+# Import-and-export-function
